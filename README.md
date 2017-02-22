@@ -1,0 +1,1 @@
+ media watchlist application, This media watchlist app will allow users to add media items to watch, see their list, and focus it down to just movies or series, and delete media items from their list.
